@@ -1,2 +1,2 @@
 ## my own reinforcement learning algorithm library
-PtTorch implementation
+PyTorch implementation
